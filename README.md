@@ -1,18 +1,21 @@
 ## Hi, I'm Hardik 👋
 
-I build production-ready SaaS tools and boilerplates for developers who want to ship faster.
+I build production-ready developer tools and starter kits for faster shipping.
 
-### 🚀 Projects
+### 🚀 Open Source Projects
 
-- **[LinkForge Starter Kit](https://github.com/hardik139337/linkforge-starter-kit)** — Production-ready Next.js 16 SaaS boilerplate with auth, Stripe, analytics, and dashboard. Ship your SaaS in a weekend.
-- **[SaaS Landing Templates](https://github.com/hardik139337/saas-landing-templates)** — 5 premium landing page templates for Next.js 16 + Tailwind v4. Minimal, Bold, Gradient, Neon, and Corporate styles.
+| Project | Description | Stack |
+|---|---|---|
+| **[LinkForge Starter Kit](https://github.com/hardik139337/linkforge-starter-kit)** | Production-ready Next.js 16 SaaS boilerplate with auth, Stripe, analytics, and dashboard | Next.js 16, Prisma 7, NextAuth v5, Stripe |
+| **[SaaS Landing Templates](https://github.com/hardik139337/saas-landing-templates)** | 5 premium landing page templates (Minimal, Bold, Gradient, Neon, Corporate) — [Live Demo](https://hardik139337.github.io/saas-landing-templates/) | Next.js 16, Tailwind v4 |
+| **[Next.js Stripe Checkout Kit](https://github.com/hardik139337/nextjs-stripe-checkout-kit)** | Add Stripe payments to your Next.js app in 10 minutes | Next.js 16, Stripe, TypeScript |
 
 ### 🛠 Tech Stack
 `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `NextAuth` `Stripe` `React`
 
-### 📫 Get in Touch
-- [GitHub](https://github.com/hardik139337)
+### ⭐ Support My Work
+If you find my projects useful, please consider starring them on GitHub!
 
 ---
 
-⭐ If you find my projects useful, consider starring them!
+*Building tools for developers who want to ship faster.*
